@@ -1,0 +1,1243 @@
+# Translation of Plugins - TablePress &#8211; Tables in WordPress made easy - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - TablePress &#8211; Tables in WordPress made easy - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-27 05:32:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - TablePress &#8211; Tables in WordPress made easy - Stable (latest release)\n"
+
+#: views/view-edit.php:517
+msgid "This field can only contain letters, numbers, spaces, hyphens (-), underscores (_), and colons (:)."
+msgstr "Ruas ini hanya dapat berisi huruf, angka, spasi, tanda hubung (-), garis bawah (_), dan titik dua (:)."
+
+#: controllers/controller-admin.php:409 controllers/controller-admin.php:494
+#: controllers/controller-admin.php:741 controllers/controller-admin.php:797
+#: controllers/controller-admin.php:869 controllers/controller-admin.php:910
+#: controllers/controller-admin.php:1031 controllers/controller-admin.php:1120
+#: controllers/controller-admin.php:1147 controllers/controller-admin.php:1188
+#: controllers/controller-admin.php:1227 controllers/controller-admin.php:1279
+#: controllers/controller-admin.php:1305
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Maaf, Anda tak diizinkan mengakses laman ini."
+
+#: views/view-edit.php:624
+msgid "To edit the content or modify the structure of this table, use the input fields and buttons below."
+msgstr "Untuk menyunting konten atau merubah struktur tabel ini, gunakan ruas input dan tombol di bawah ini."
+
+#: views/view-options.php:58
+msgid "Frontend Options and Styling"
+msgstr "Opsi dan Pengaturan Gaya Tampilan Depan"
+
+#: views/class-all-tables-list-table.php:157
+msgid "Bulk action selector"
+msgstr "Pemilih tindakan massal"
+
+#: views/view-edit.php:570
+msgid "Additional parameters from the <a href=\"%s\">DataTables documentation</a> to be added to the JS call."
+msgstr "Parameter tambahan dari <a href=\"%s\">dokumentasi DataTables</a> untuk ditambahkan ke panggilan JS."
+
+#: classes/class-admin-page-helper.php:109
+msgid "Thank you for using <a href=\"%s\">TablePress</a>."
+msgstr "Terima kasih telah menggunakan <a href=\"%s\">TablePress</a>."
+
+#: views/view-edit.php:597
+msgid "The following error was registered: %s."
+msgstr "Kesalahan berikut telah terdaftar: %s."
+
+#: classes/class-tablepress.php:410
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#: views/view-about.php:245
+msgid "Allan Jardine for <a href=\"%s\">DataTables</a>,"
+msgstr "Allan Jardine untuk <a href=\"%s\">DataTables</a>,"
+
+#: views/view-about.php:246
+msgid "the translators in the <a href=\"%s\">Plugin Directory</a>,"
+msgstr "penerjemah dalam <a href=\"%s\">Direktori Plugin</a>,"
+
+#: views/view-list.php:56
+msgid "Welcome!"
+msgstr "Selamat datang!"
+
+#: views/view-list.php:54 views/view-list.php:75 views/view-list.php:89
+msgid "Hide this message"
+msgstr "Sembunyikan pesan ini"
+
+#: views/view-list.php:62
+msgid "Tobias Bäthge, developer of TablePress"
+msgstr "Tobias Bäthge, pengembang dari TablePress"
+
+#: views/view-list.php:63
+msgid "Hi, my name is Tobias, I&#8217;m the developer of the TablePress plugin."
+msgstr "Hai, nama saya Tobias, saya adalah pengembang dari plugin TablePress."
+
+#: views/view-list.php:73
+msgid "Sincerely, Tobias"
+msgstr "Hormat saya, Tobias"
+
+#: views/view-list.php:115
+msgid "Tables"
+msgstr "Tabel-tabel"
+
+#: controllers/controller-admin_ajax.php:280 views/view-about.php:113
+#: views/view-list.php:193 views/view-preview_table.php:68
+msgid "Each table has a unique ID that needs to be adjusted in that Shortcode."
+msgstr "Setiap tabel memiliki ID unik yang perlu disesuaikan pada Shortcode-nya."
+
+#: views/class-all-tables-list-table.php:93
+msgid "Author"
+msgstr "Penulis"
+
+#: views/class-all-tables-list-table.php:200
+#: views/class-all-tables-list-table.php:207
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Edit &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:209
+msgid "Show Shortcode"
+msgstr "Perlihatkan Shortcode"
+
+#: views/class-all-tables-list-table.php:214
+msgctxt "row action"
+msgid "Export"
+msgstr "Ekspor"
+
+#: views/class-all-tables-list-table.php:217
+msgid "Delete &#8220;%s&#8221;"
+msgstr "Hapus &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:340
+msgctxt "bulk action"
+msgid "Export"
+msgstr "Ekspor"
+
+#: views/class-all-tables-list-table.php:343
+msgctxt "bulk action"
+msgid "Delete"
+msgstr "Hapus"
+
+#: views/view-options.php:43
+msgid "Options saved successfully."
+msgstr "Opsi berhasil disimpan."
+
+#: views/view-options.php:111
+msgid "Please note that invalid CSS code will be stripped, if it can not be corrected automatically."
+msgstr "Mohon dicatat bahwa kode CSS yang salah akan dihapus, bila tidak dapat diperbaiki secara otomatis."
+
+#: views/view-options.php:159
+msgid "Admin menu entry"
+msgstr "Entri di menu admin"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://tablepress.org/"
+msgstr "https://tablepress.org/"
+
+#. Author of the plugin
+msgid "Tobias Bäthge"
+msgstr "Tobias Bäthge"
+
+#: views/class-all-tables-list-table.php:383
+msgid "Apply"
+msgstr "Terapkan"
+
+#: views/class-all-tables-list-table.php:378
+msgid "Bulk Actions"
+msgstr "Tindakan Massal"
+
+#: views/class-all-tables-list-table.php:211 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:84
+msgid "Copy"
+msgstr "Salin"
+
+#: views/class-all-tables-list-table.php:211
+msgid "Copy &#8220;%s&#8221;"
+msgstr "Salin &#8220;%s&#8221;"
+
+#: views/view-options.php:45
+msgid "Error: Options could not be saved."
+msgstr "Galat: Opsi tidak dapat disimpan."
+
+#: views/view-list.php:102
+msgid "Error: The table could not be copied."
+msgstr "Galat: Tabel tidak dapat disalin."
+
+#: views/class-all-tables-list-table.php:214
+msgid "Export &#8220;%s&#8221;"
+msgstr "Ekspor &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:94
+msgid "Last Modified By"
+msgstr "Terakhir Diubah Oleh"
+
+#: views/view-options_custom_css.php:141
+msgid "Proceed without saving a file"
+msgstr "Lanjutkan tanpa menyimpan berkas"
+
+#: views/class-all-tables-list-table.php:376
+msgid "Select Bulk Action"
+msgstr "Pilih Tindakan Massal"
+
+#: views/view-list.php:91
+msgid "Thank you for updating to TablePress %s!"
+msgstr "Terima kasih telah memperbarui ke TablePress %s!"
+
+#: views/view-list.php:109
+msgid "The tables were imported successfully."
+msgstr "Tabel berhasil diimpor."
+
+#: views/view-editor_button_thickbox.php:117 views/view-list.php:185
+msgid "This is a list of your tables."
+msgstr "Ini adalah daftar tabel Anda."
+
+#: views/view-options.php:149
+msgid "Top-Level (bottom)"
+msgstr "Tingkat-Atas (bawah)"
+
+#: views/view-options.php:148
+msgid "Top-Level (middle)"
+msgstr "Tingkat-Atas (tengah)"
+
+#: views/view-options.php:147
+msgid "Top-Level (top)"
+msgstr "Tingkat-Atas (atas)"
+
+#: views/class-all-tables-list-table.php:337
+msgctxt "bulk action"
+msgid "Copy"
+msgstr "Salin"
+
+#: views/view-options_custom_css.php:146
+msgid "Proceed without saving &#8220;Custom CSS&#8221; to a file"
+msgstr "Lanjutkan tanpa menyimpan &#8220;Custom CSS&#8221; ke dalam sebuah berkas"
+
+#: views/view-options_custom_css.php:114
+msgid "Connection Information"
+msgstr "Informasi Sambungan"
+
+#: views/view-options_custom_css.php:113
+msgid "Due to the configuration of your server, TablePress was not able to automatically save your &#8220;Custom CSS&#8221; to a file."
+msgstr "Karena konfigurasi server Anda, TablePress tidak dapat secara otomatis menyimpan &#8220;CSS Tersesuai&#8221; Anda ke dalam berkas."
+
+#: views/view-options.php:198
+msgid "Be very careful with this and only click the button if you know what you are doing!"
+msgstr "Berhati-hatilah dengan ini dan klik tombol hanya jika Anda tahu apa yang sedang Anda lakukan!"
+
+#: views/view-options.php:60
+msgid "User Options"
+msgstr "Opsi Pengguna"
+
+#: views/view-options.php:95
+msgid "Custom CSS"
+msgstr "CSS Tersuai"
+
+#: views/view-options.php:196
+msgid "It is recommended that you create a backup of the tables (by exporting the tables in the JSON format), in case you later change your mind."
+msgstr "Disarankan untuk membuat cadangan dari tabel (dengan cara mengekspor tabel dalam format JSON), seandainya anda berubah pikiran dan ingin memasang kembali plugin ini."
+
+#: views/view-options_custom_css.php:40
+msgid "Attention: Further action is required to save the changes to your &#8220;Custom CSS&#8221;!"
+msgstr "Perhatian: Diperlukan tindakan lebih lanjut untuk menyimpan perubahan ke &#8220;CSS Tersuai&#8221; Anda!"
+
+#: views/view-options_custom_css.php:144
+msgid "Your &#8220;Custom CSS&#8221; will then be loaded inline."
+msgstr "CSS Tersuai Anda kemudian akan dimuat sebaris."
+
+#: views/view-options.php:107
+msgid "You can get styling examples from the <a href=\"%s\">FAQ</a>."
+msgstr "Anda dapat melihat contoh pengubahan tampilan melalui halaman <a href=\"%s\">FAQ</a>."
+
+#: views/view-options.php:195
+msgid "Uninstalling <strong>will permanently delete</strong> all TablePress tables and options from the database."
+msgstr "Pencopotan <strong>akan menghapus secara permanen</strong> semua tabel TablePress dan opsi-opsinya dari basis data."
+
+#: views/view-options_custom_css.php:143
+msgid "To proceed without trying to save the &#8220;Custom CSS&#8221; to a file, click the button below."
+msgstr "Untuk melanjutkan tanpa mencoba menyimpan &#8220;CSS Tersuai&#8221; ke sebuah berkas, klik tombol di bawah ini."
+
+#: views/view-options_custom_css.php:114
+msgid "To try again with the same method that you use for updating plugins or themes, please fill out the &#8220;%s&#8221; form below."
+msgstr "Untuk mencoba lagi dengan metode yang sama dengan yang Anda gunakan untuk memperbarui plugin atau tema, silakan isi formulir &#8220;%s&#8221; di bawah ini."
+
+#: views/view-options.php:44
+msgid "Options saved successfully, but &#8220;Custom CSS&#8221; was not saved to file."
+msgstr "Opsi berhasil disimpan, namun &#8220;CSS Tersuai&#8221; tidak disimpan ke dalam berkas."
+
+#: views/view-options.php:105
+msgid "&#8220;Custom CSS&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) can be used to change the styling or layout of a table."
+msgstr "&#8220;CSS Tersuai&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) dapat digunakan untuk mengubah tampilan atau tata letak tabel."
+
+#: views/class-all-tables-list-table.php:406
+msgid "You should <a href=\"%s\">import</a> a table to get started!"
+msgstr "Anda harus <a href=\"%s\">mengimpor</a> sebuah tabel untuk memulai!"
+
+#: views/class-all-tables-list-table.php:404
+msgid "You should <a href=\"%s\">add</a> a table to get started!"
+msgstr "Anda harus <a href=\"%s\">menambahkan</a> sebuah tabel untuk memulai!"
+
+#: views/view-list.php:105
+msgid "Error: This bulk action is invalid!"
+msgstr "Galat: Tindakan massal ini tidak benar!"
+
+#: views/view-list.php:106
+msgid "Error: You did not select any tables!"
+msgstr "Galat: Anda belum memilih tabel manapun!"
+
+#: views/view-list.php:103
+msgid "Error: You did not specify a valid table ID."
+msgstr "Galat: Anda tidak menentukan ID tabel yang benar."
+
+#: views/view-list.php:97 views/view-list.php:98
+msgid "The table was deleted successfully."
+msgid_plural "The tables were deleted successfully."
+msgstr[0] "Tabel berhasil dihapus."
+msgstr[1] "Tabel-tabel berhasil dihapus."
+
+#: views/view-list.php:100
+msgid "The copied table has the table ID &#8220;%s&#8221;."
+msgstr "Tabel yang telah disalin memiliki ID tabel &#8220;%s&#8221;."
+
+#: views/view-list.php:107
+msgid "Notice: Not all selected tables could be deleted!"
+msgstr "Pemberitahuan: Tidak semua tabel yang dipilih dapat dihapus!"
+
+#: views/view-list.php:108
+msgid "Notice: Not all selected tables could be copied!"
+msgstr "Pemberitahuan: Tidak semua tabel yang dipilih bisa disalin!"
+
+#: views/view-options.php:160
+msgid "TablePress shall be shown in this section of my admin menu: %s"
+msgstr "TablePress akan ditampilkan di menu admin saya pada bagian: %s"
+
+#: views/view-options.php:197
+msgid "You will manually need to remove the plugin&#8217;s files from the plugin folder afterwards."
+msgstr "Setelah ini Anda perlu menghapus berkas plugin dari folder plugin secara manual."
+
+#: views/view-options.php:109
+msgid "Information on available CSS selectors can be found in the <a href=\"%s\">Documentation</a>."
+msgstr "Informasi tentang selektor CSS yang tersedia dapat ditemukan di <a href=\"%s\">Dokumentasi</a>."
+
+#: views/view-options.php:96
+msgid "Load this &#8220;Custom CSS&#8221; code to change the table styling:"
+msgstr "Muat kode &#8220;CSS Tersuai&#8221; berikut untuk merubah tampilan tabel:"
+
+#: views/view-options.php:78
+msgid "TablePress has some options which affect the plugin&#8217;s behavior in different areas."
+msgstr "TablePress memiliki beberapa opsi yang memengaruhi perilaku plugin pada area yang berbeda."
+
+#: views/view-list.php:48
+msgid "If you encounter any questions or problems, please visit the <a href=\"%1$s\">FAQ</a>, the <a href=\"%2$s\">Documentation</a>, and the <a href=\"%3$s\">Support</a> section on the <a href=\"%4$s\">plugin website</a>."
+msgstr "Jika Anda memiliki pertanyaan atau menemui masalah, silakan kunjungi <a href=\"%1$s\">FAQ</a>, <a href=\"%2$s\">Dokumentasi</a>, dan bagian <a href=\"%3$s\">Dukungan</a> di <a href=\"%4$s\">situs web plugin</a>."
+
+#: views/view-edit.php:557
+msgid "Info"
+msgstr "Informasi"
+
+#: views/view-edit.php:548
+msgid "Pagination"
+msgstr "Paginasi"
+
+#: views/class-all-tables-list-table.php:92
+#: views/class-editor-button-thickbox-list-table.php:84 views/view-add.php:81
+#: views/view-edit.php:215
+msgid "Description"
+msgstr "Deskripsi"
+
+#: views/class-all-tables-list-table.php:91
+#: views/class-editor-button-thickbox-list-table.php:83 views/view-add.php:76
+#: views/view-edit.php:211
+msgid "Table Name"
+msgstr "Nama Tabel"
+
+#: views/view-add.php:81
+msgid "(optional)"
+msgstr "(opsional)"
+
+#: views/view-add.php:83
+msgid "A description of the contents of your table."
+msgstr "Deskripsi konten tabel Anda"
+
+#: views/view-edit.php:220
+msgid "%1$s by %2$s"
+msgstr "%1$s oleh %2$s"
+
+#: views/view-export.php:174
+msgid "(Only needed for CSV export.)"
+msgstr "(Hanya dibutuhkan untuk ekspor CSV.)"
+
+#: views/class-all-tables-list-table.php:236
+#: views/class-editor-button-thickbox-list-table.php:161
+msgid "(no description)"
+msgstr "(tanpa deskripsi)"
+
+#: views/view-edit.php:315
+msgid "?"
+msgstr "?"
+
+#: views/class-editor-button-thickbox-list-table.php:85
+msgid "Action"
+msgstr "Tindakan"
+
+#: views/view-edit.php:359 views/view-edit.php:363
+msgid "Add"
+msgstr "Tambah"
+
+#: views/view-edit.php:362
+msgid "Add %s column(s)"
+msgstr "Tambah %s kolom"
+
+#: views/view-edit.php:358
+msgid "Add %s row(s)"
+msgstr "Tambah %s baris"
+
+#: views/view-add.php:41
+msgid "Add Table"
+msgstr "Tambahkan Tabel"
+
+#: views/view-import.php:147
+msgid "Add as new table"
+msgstr "Tambahkan sebagai tabel baru"
+
+#: views/view-import.php:145
+msgid "Add, Replace, or Append?"
+msgstr "Buat, Ganti, atau Tambah?"
+
+#: views/view-edit.php:310 views/view-edit.php:434 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:136
+msgid "Advanced Editor"
+msgstr "Penyunting Lanjutan"
+
+#: views/view-edit.php:554
+msgid "Allow the visitor to change the number of rows shown when using pagination."
+msgstr "Ijinkan pengunjung mengubah jumlah baris yang ditampilkan saat menggunakan paginasi."
+
+#: views/view-import.php:149
+msgid "Append rows to existing table"
+msgstr "Tambahkan baris ke tabel yang ada"
+
+#: views/view-about.php:97
+msgid "At first, you should add or import a table."
+msgstr "Pertama-tama, Anda harus menambahkan atau mengimpor sebuah tabel."
+
+#: classes/class-view.php:459 views/view-edit.php:608
+msgid "Back to the List of Tables"
+msgstr "Kembali ke Daftar Tabel"
+
+#: views/view-edit.php:411
+msgid "Copy Table"
+msgstr "Salin Tabel"
+
+#: views/view-export.php:184
+msgid "Create a ZIP archive."
+msgstr "Buat arsip ZIP."
+
+#: views/class-all-tables-list-table.php:217 views/view-edit.php:323
+#: views/view-edit.php:329
+msgid "Delete"
+msgstr "Hapus"
+
+#: views/view-edit.php:417
+msgid "Delete Table"
+msgstr "Hapus Tabel"
+
+#: views/view-edit.php:321 views/view-edit.php:327
+msgid "Duplicate"
+msgstr "Gandakan"
+
+#: views/view-export.php:39
+msgid "Error: The ZIP file could not be created."
+msgstr "Galat: Berkas ZIP tidak dapat dibuat."
+
+#: views/view-export.php:36
+msgid "Error: The export failed."
+msgstr "Galat: Ekspor gagal."
+
+#: views/view-import.php:49
+msgid "Error: The import failed."
+msgstr "Galat: Impor gagal."
+
+#: views/view-export.php:38
+msgid "Error: The internal data of this table is corrupted!"
+msgstr "Galat: Data internal tabel ini rusak!"
+
+#: views/view-add.php:36
+msgid "Error: The table could not be added."
+msgstr "Galat: Tidak dapat menambahkan tabel."
+
+#: views/view-edit.php:54 views/view-list.php:99
+msgid "Error: The table could not be deleted."
+msgstr "Galat: Tabel tidak dapat dihapus."
+
+#: views/view-export.php:37 views/view-list.php:104
+msgid "Error: This table could not be loaded!"
+msgstr "Galat: Tabel ini tidak dapat dimuat!"
+
+#: views/view-export.php:152
+msgid "Export Format"
+msgstr "Format Ekspor"
+
+#: views/view-edit.php:414
+msgid "Export Table"
+msgstr "Ekspor Tabel"
+
+#: views/view-export.php:44 views/view-export.php:47
+msgid "Export Tables"
+msgstr "Ekspor Tabel"
+
+#: views/view-export.php:62
+msgid "Exporting a table allows you to use it in other programs, like spreadsheets applications."
+msgstr "Mengekspor tabel memungkinkan Anda menggunakannya di program lain, seperti aplikasi spreadsheet."
+
+#: views/view-edit.php:516 admin/js/build/edit.js:1 admin/js/edit.js:196
+msgid "Extra CSS Classes"
+msgstr "Kelas CSS Tambahan"
+
+#: views/view-import.php:115
+msgid "File URL"
+msgstr "URL Berkas"
+
+#: views/view-import.php:90
+msgid "File Upload"
+msgstr "Unggah Berkas"
+
+#: views/view-import.php:93
+msgid "File on server"
+msgstr "Berkas pada server"
+
+#: views/view-export.php:70
+msgid "For the JSON format, the table data and the table options are exported."
+msgstr "Untuk format JSON, data tabel dan pilihan tabel diekspor."
+
+#: views/view-edit.php:315 views/view-edit.php:455
+msgid "Help on combining cells"
+msgstr "Bantuan untuk menggabungkan sel"
+
+#: views/view-edit.php:347 views/view-edit.php:352
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: views/class-all-tables-list-table.php:90
+#: views/class-editor-button-thickbox-list-table.php:82
+msgid "ID"
+msgstr "ID"
+
+#: views/view-export.php:137 views/view-import.php:166
+msgid "ID %1$s: %2$s"
+msgstr "ID %1$s: %2$s"
+
+#: views/view-import.php:88
+msgid "Import Source"
+msgstr "Sumber Impor"
+
+#: views/view-import.php:53
+msgid "Import Tables"
+msgstr "Impor Tabel"
+
+#: views/view-edit.php:96
+msgid "Insert into Table"
+msgstr "Masukkan ke dalam Tabel"
+
+#: views/class-all-tables-list-table.php:95 views/view-edit.php:219
+msgid "Last Modified"
+msgstr "Terakhir Diubah"
+
+#: views/view-editor_button_thickbox.php:70
+#: views/view-editor_button_thickbox.php:115
+msgid "List of Tables"
+msgstr "Daftar Tabel"
+
+#: views/view-import.php:95
+msgid "Manual Input"
+msgstr "Input Manual"
+
+#: views/view-add.php:91
+msgid "Number of Columns"
+msgstr "Jumlah Kolom"
+
+#: views/view-add.php:86
+msgid "Number of Rows"
+msgstr "Jumlah Baris"
+
+#: views/view-edit.php:409
+msgid "Other Actions"
+msgstr "Tindakan Lain"
+
+#: views/view-edit.php:553
+msgid "Pagination Length Change"
+msgstr "Perubahan Panjang Paginasi"
+
+#: views/view-about.php:208
+msgid "Please provide this information in bug reports and support requests."
+msgstr "Harap berikan informasi berikut dalam laporan bug dan permintaan dukungan."
+
+#: views/view-edit.php:506
+msgid "Print Table Description"
+msgstr "Cetak Deskripsi Tabel"
+
+#: views/view-edit.php:496
+msgid "Print Table Name"
+msgstr "Cetak Nama Tabel"
+
+#: views/view-import.php:148
+msgid "Replace existing table"
+msgstr "Ganti tabel yang ada"
+
+#: views/view-editor_button_thickbox.php:128 views/view-list.php:216
+msgid "Search Tables"
+msgstr "Cari Tabel"
+
+#: views/view-edit.php:544
+msgid "Search/Filtering"
+msgstr "Pencarian/Penyaringan"
+
+#: views/view-export.php:109
+msgid "Select all"
+msgstr "Pilih Semua"
+
+#: views/view-edit.php:326 views/view-edit.php:339 views/view-edit.php:351
+msgid "Selected columns"
+msgstr "Kolom yang dipilih"
+
+#: views/view-edit.php:320 views/view-edit.php:334 views/view-edit.php:346
+msgid "Selected rows"
+msgstr "Baris yang dipilih"
+
+#: views/view-import.php:127
+msgid "Server Path to file"
+msgstr "Lokasi Berkas pada Server"
+
+#: views/view-edit.php:348 views/view-edit.php:353
+msgid "Show"
+msgstr "Tampilkan"
+
+#: views/view-edit.php:540
+msgid "Sorting"
+msgstr "Penyortiran"
+
+#: views/view-edit.php:76
+msgid "Table Content"
+msgstr "Isi Tabel"
+
+#: views/view-edit.php:484 admin/js/build/edit.js:1 admin/js/edit.js:337
+msgid "Table Foot Row"
+msgstr "Baris Kaki Tabel"
+
+#: views/view-edit.php:480 views/view-edit.php:533 admin/js/build/edit.js:1
+#: admin/js/edit.js:327
+msgid "Table Head Row"
+msgstr "Baris Kepala Tabel"
+
+#: views/view-edit.php:202
+msgid "Table ID"
+msgstr "ID Tabel"
+
+#: views/view-edit.php:75
+msgid "Table Information"
+msgstr "Informasi Tabel"
+
+#: views/view-edit.php:77
+msgid "Table Manipulation"
+msgstr "Manipulasi Tabel"
+
+#: views/view-export.php:105
+msgid "Tables to Export"
+msgstr "Tabel untuk Ekspor"
+
+#: views/view-edit.php:205
+msgid "The Table ID can only consist of letters, numbers, hyphens (-), and underscores (_)."
+msgstr "ID Tabel hanya dapat terdiri dari huruf, angka, tanda hubung (-), dan garis bawah (_)."
+
+#: views/view-edit.php:485
+msgid "The last row of the table is the table footer."
+msgstr "Baris terakhir dari tabel adalah kaki tabel."
+
+#: views/view-about.php:119
+msgid "The plugin ships with default CSS stylesheets, which can be customized with own code or replaced with other stylesheets."
+msgstr "Plugin ini dilengkapi dengan lembar gaya CSS bawaan, yang dapat disesuaikan dengan kode sendiri atau diganti dengan lembar gaya lainnya."
+
+#: views/view-edit.php:51
+msgid "The table was added successfully."
+msgstr "Tabel berhasil ditambahkan."
+
+#: views/view-edit.php:53
+msgid "The table was imported successfully."
+msgstr "Tabel berhasil diimpor."
+
+#: views/view-export.php:66
+msgid "To export, select the tables and the desired export format."
+msgstr "Untuk mengekspor, pilih tabel dan format ekspor yang diinginkan."
+
+#: views/view-import.php:91
+msgid "URL"
+msgstr "URL"
+
+#: views/view-edit.php:52
+msgid "You are now seeing the copied table, which has the table ID &#8220;%s&#8221;."
+msgstr "Anda sekarang melihat salinan tabel, dengan ID tabel &#8220;%s&#8221;."
+
+#: views/view-export.php:178
+msgid "ZIP file"
+msgstr "Berkas ZIP"
+
+#: views/view-edit.php:499 views/view-edit.php:509
+msgid "above"
+msgstr "di atas"
+
+#: views/view-edit.php:500 views/view-edit.php:510
+msgid "below"
+msgstr "di bawah"
+
+#: views/view-export.php:194
+msgctxt "button"
+msgid "Download Export File"
+msgstr "Unduh Berkas Ekspor"
+
+#: views/view-import.php:176
+msgctxt "button"
+msgid "Import"
+msgstr "Impor"
+
+#: views/view-about.php:155
+msgid "This plugin was written and developed by <a href=\"%s\">Tobias Bäthge</a>."
+msgstr "Plugin ini dibuat dan dikembangkan oleh <a href=\"%s\">Tobias Bäthge</a>."
+
+#: views/view-about.php:156
+msgid "It is licensed as Free Software under GNU General Public License 2 (GPL 2)."
+msgstr "Plugin ini menggunakan lisensi Software Bebas dengan mengikuti ketentuan GNU General Public License 2 (GPL 2)."
+
+#: views/view-about.php:102
+msgid "To easily add a link or an image to a cell, use the provided buttons."
+msgstr "Agar mudah menambahkan tautan atau gambar ke sebuah sel, gunakan tombol yang tersedia."
+
+#: views/view-about.php:120
+msgid "For this, each table is given certain CSS classes that can be used as CSS selectors."
+msgstr "Untuk itu, setiap tabel diberikan kelas CSS tertentu untuk kemudian digunakan sebagai selektor CSS."
+
+#: views/view-edit.php:517
+msgid "This is NOT the place to enter <a href=\"%s\">Custom CSS</a> code!"
+msgstr "Ini BUKAN tempat untuk memasukkan kode <a href=\"%s\">CSS Tersuai</a>!"
+
+#: views/view-add.php:87 views/view-add.php:92 views/view-edit.php:358
+#: views/view-edit.php:362
+msgid "This field must contain a positive number."
+msgstr "Isian ini harus mengandung sebuah angka positif."
+
+#: views/class-editor-button-thickbox-list-table.php:186
+msgid "You should add or import a table on the TablePress screens to get started!"
+msgstr "Anda harus menambahkan atau mengimpor sebuah tabel pada layar TablePress untuk memulai!"
+
+#: views/class-all-tables-list-table.php:402 views/view-export.php:88
+msgid "You should <a href=\"%1$s\">add</a> or <a href=\"%2$s\">import</a> a table to get started!"
+msgstr "Anda harus <a href=\"%1$s\">menambahkan</a> atau <a href=\"%2$s\">mengimpor</a> sebuah tabel untuk memulai!"
+
+#: views/view-editor_button_thickbox.php:117
+msgid "You may insert a table into a post or page here."
+msgstr "Anda bisa memasukkan tabel ke dalam pos atau laman di sini."
+
+#: views/view-add.php:59
+msgid "You can always change the name, description, and size of your table later."
+msgstr "Anda tetap dapat mengubah nama, deskripsi, dan ukuran tabel nanti."
+
+#: views/view-import.php:71
+msgid "You can also choose to import it as a new table, to replace an existing table, or to append the rows to an existing table."
+msgstr "Anda juga dapat memilih untuk mengimpornya sebagai sebuah tabel baru, mengganti tabel yang ada, atau menambahkan baris ke tabel yang sudah ada."
+
+#: views/view-add.php:56
+msgid "To add a new table, enter its name, a description (optional), and the number of rows and columns into the form below."
+msgstr "Untuk membuat tabel baru, masukkan nama, deskripsi (opsional), serta jumlah baris dan kolom ke dalam formulir di bawah ini."
+
+#: views/view-add.php:88
+msgid "The number of rows in your table."
+msgstr "Jumlah baris dalam tabel Anda."
+
+#: views/view-add.php:93
+msgid "The number of columns in your table."
+msgstr "Jumlah kolom dalam tabel Anda."
+
+#: views/view-add.php:78
+msgid "The name or title of your table."
+msgstr "Nama atau judul tabel Anda."
+
+#: views/view-edit.php:52 views/view-list.php:100 views/view-list.php:101
+msgid "The table was copied successfully."
+msgid_plural "The tables were copied successfully."
+msgstr[0] "Tabel berhasil disalin."
+msgstr[1] "Semua tabel berhasil disalin."
+
+#: views/view-export.php:184
+msgid "(Mandatory if more than one table is selected.)"
+msgstr "(Wajib jika lebih dari satu tabel yang dipilih.)"
+
+#: views/view-edit.php:591 admin/js/build/edit.js:1 admin/js/edit.js:827
+#: admin/js/edit.js:975
+msgid "Attention: Unfortunately, an error occurred."
+msgstr "Perhatian: Maaf, terjadi kesalahan."
+
+#: views/view-edit.php:206
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: views/view-editor_button_thickbox.php:121 views/view-list.php:208
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Hasil pencarian untuk &#8220;%s&#8221;"
+
+#: views/view-edit.php:550
+msgid "Show %s rows per page."
+msgstr "Tampilkan %s baris per laman."
+
+#: views/view-edit.php:78 views/view-edit.php:533 admin/js/build/edit.js:1
+#: admin/js/edit.js:327 admin/js/edit.js:337
+msgid "Table Options"
+msgstr "Opsi Tabel"
+
+#: views/class-all-tables-list-table.php:393
+#: views/class-editor-button-thickbox-list-table.php:184
+#: views/view-export.php:87
+msgid "No tables found."
+msgstr "Tabel tidak ditemukan."
+
+#: views/view-export.php:187
+msgid "Note: Support for ZIP file creation seems not to be available on this server."
+msgstr "Catatan: Server ini sepertinya tidak mendukung pembuatan berkas ZIP."
+
+#: views/class-editor-button-thickbox-list-table.php:175
+#: views/view-editor_button_thickbox.php:118
+msgid "Insert Shortcode"
+msgstr "Masukkan Shortcode"
+
+#: views/view-about.php:244
+msgid "Special Thanks go to:"
+msgstr "Terima kasih khususnya kepada:"
+
+#: views/view-edit.php:457
+msgid "Table cells can span across more than one column or row."
+msgstr "Sel tabel dapat digabung lebih dari satu kolom atau baris."
+
+#: views/view-edit.php:488
+msgid "Alternating Row Colors"
+msgstr "Warna Baris Bergantian"
+
+#: views/view-edit.php:561
+msgid "Horizontal Scrolling"
+msgstr "Pengguliran Horisontal"
+
+#: views/view-edit.php:570
+msgid "For advanced use only."
+msgstr "Hanya untuk penggunaan tingkat lanjut."
+
+#: views/view-export.php:67
+msgid "If you choose more than one table, the exported files will automatically be stored in a ZIP archive file."
+msgstr "Jika Anda memilih lebih dari satu tabel, berkas yang diekspor akan otomatis tersimpan dalam bentuk berkas arsip ZIP."
+
+#: views/view-edit.php:308 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:126
+msgid "Insert Link"
+msgstr "Masukkan Tautan"
+
+#: views/view-edit.php:309 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:131
+msgid "Insert Image"
+msgstr "Masukkan Gambar"
+
+#: views/view-edit.php:322 views/view-edit.php:328
+msgid "Insert"
+msgstr "Masukkan"
+
+#: views/view-about.php:159
+msgid "Please rate and review the plugin in the <a href=\"%s\">WordPress Plugin Directory</a>."
+msgstr "Silakan beri nilai dan ulasan mengenai plugin ini di <a href=\"%s\">Direktori Plugin WordPress</a>."
+
+#: views/view-edit.php:569
+msgid "Custom Commands"
+msgstr "Perintah Tersuai"
+
+#: views/view-import.php:139
+msgid "Import data"
+msgstr "Impor data"
+
+#: views/view-edit.php:493
+msgid "Highlight a row while the mouse cursor hovers above it by changing its background color."
+msgstr "Menyorot suatu baris dengan mengubah warna latar belakangnya saat kursor mouse berada di atasnya."
+
+#: views/view-edit.php:489
+msgid "The background colors of consecutive rows shall alternate."
+msgstr "Warna latar belakang dari baris yang berurutan akan bergantian."
+
+#: views/view-about.php:118
+msgid "Tables can be styled by changing and adding CSS commands."
+msgstr "Tampilan tabel dapat diubah dengan mengganti dan menambahkan perintah CSS."
+
+#: views/view-edit.php:481
+msgid "The first row of the table is the table header."
+msgstr "Baris pertama dari tabel adalah kepala tabel."
+
+#: views/view-edit.php:595
+msgid "The internal data of table &#8220;%1$s&#8221; (ID %2$s) is corrupted."
+msgstr "Data internal dari tabel &#8220;%1$s&#8221; (ID %2$s) rusak."
+
+#: views/view-import.php:153
+msgid "Table to replace or append to"
+msgstr "Tabel yang akan diganti atau digabung"
+
+#: views/view-edit.php:517
+msgid "Additional CSS classes for styling purposes can be entered here."
+msgstr "Kelas CSS tambahan untuk mengubah tampilan tabel dapat dimasukkan di sini."
+
+#: views/view-edit.php:602
+msgid "Because of this error, the table can not be edited at this time, to prevent possible further data loss."
+msgstr "Karena galat ini, tabel tidak dapat disunting sekarang, untuk mencegah kemungkinan kehilangan data lebih lanjut."
+
+#: views/view-export.php:165
+msgid "CSV Delimiter"
+msgstr "Pemisah entri CSV"
+
+#: views/view-edit.php:459
+msgid "Combining consecutive cells within the same column is called &#8220;rowspanning&#8221;."
+msgstr "Menggabungkan sel yang berurutan pada kolom yang sama disebut: &#8220;rowspanning&#8221;."
+
+#: views/view-edit.php:458
+msgid "Combining consecutive cells within the same row is called &#8220;colspanning&#8221;."
+msgstr "Menggabungkan sel yang berurutan pada baris yang sama disebut: &#8220;colspanning&#8221;."
+
+#: views/view-edit.php:549
+msgid "Enable pagination of the table (viewing only a certain number of rows at a time) by the visitor."
+msgstr "Ijinkan paginasi pada tabel (hanya menampilkan beberapa baris sekaligus) oleh pengunjung."
+
+#: views/view-edit.php:541
+msgid "Enable sorting of the table by the visitor."
+msgstr "Ijinkan pengurutan tabel oleh pengunjung."
+
+#: views/view-edit.php:558
+msgid "Enable the table information display, with information about the currently visible data, like the number of rows."
+msgstr "Ijinkan menampilkan informasi tabel, dengan informasi tentang data yang terlihat saat ini, seperti jumlah baris misalnya."
+
+#: views/view-edit.php:545
+msgid "Enable the visitor to filter or search the table. Only rows with the search word in them are shown."
+msgstr "Ijinkan pengunjung untuk menyaring atau melakukan pencarian dalam tabel. Hanya baris yang mengandung kata yang dicari yang akan ditampilkan."
+
+#: views/view-edit.php:562
+msgid "Enable horizontal scrolling, to make viewing tables with many columns easier."
+msgstr "Ijinkan pengguliran horizontal, agar lebih mudah untuk menampilkan tabel yang memiliki banyak kolom."
+
+#: views/view-about.php:103
+msgid "Those will ask you for the necessary information and corresponding HTML code will be added to the cell automatically."
+msgstr "Anda akan diminta informasi yang diperlukan dan kode HTML yang sesuai akan ditambahkan ke dalam sel secara otomatis."
+
+#: views/view-about.php:98
+msgid "This means that you either let the plugin create an empty table for you or that you load an existing table from either a CSV, HTML, JSON, XLS, or XLSX file."
+msgstr "Ini berarti Anda dapat mengijinkan plugin untuk membuat tabel kosong atau Anda bisa memuat tabel yang sudah ada dari suatu berkas CSV, HTML, JSON, XLS, atau XLSX."
+
+#: views/view-export.php:63
+msgid "Regularly exporting tables is also recommended as a backup of your data."
+msgstr "Juga disarankan untuk mengekspor tabel secara teratur sebagai cadangan data bagi Anda."
+
+#: views/view-edit.php:604
+msgid "Please see the <a href=\"%s\">TablePress FAQ page</a> for further instructions."
+msgstr "Silakan lihat <a href=\"%s\">laman FAQ TabelPress</a> untuk petunjuk lebih lanjut."
+
+#: views/view-about.php:190
+msgid "If you do not find an answer there, please <a href=\"%s\">open a new thread</a> in the WordPress Support Forums."
+msgstr "Jika Anda tidak menemukan jawabannya di sana, <a href=\"%s\">buat topik baru</a> di Forum Dukungan WordPress."
+
+#: views/view-export.php:69
+msgid "Be aware that for the CSV and HTML formats only the table data, but no table options are exported!"
+msgstr "Perlu diketahui bahwa untuk format CSV dan HTML yang diekspor hanyalah data pada tabel, sedangkan opsi tabel tidak!"
+
+#: views/view-edit.php:492
+msgid "Row Hover Highlighting"
+msgstr "Warna Baris Tersorot"
+
+#: views/view-about.php:121
+msgid "Please see the <a href=\"%s\">Documentation</a> for a list of these selectors and for styling examples."
+msgstr "Silakan lihat <a href=\"%s\">Dokumentasi</a> untuk melihat daftar selektor CSS dan contoh-contoh pengubahan tampilan."
+
+#: views/view-about.php:101
+msgid "Then, you can edit your data or change the structure of your table (e.g. by inserting, deleting, moving, or swapping rows or columns or sorting them) and select specific table features like alternating row colors or whether to print the name or description, if you want."
+msgstr "Setelah itu Anda dapat menyunting data atau struktur tabel (misal: dengan cara memasukkan, menghapus, memindahkan, mengganti baris atau kolom atau mengurutkan mereka) dan memilih fitur yang Anda inginkan seperti pewarnaan baris bergantian atau memunculkan nama atau deskripsi tabel."
+
+#: classes/class-render.php:519 views/class-all-tables-list-table.php:207
+msgid "Edit"
+msgstr "Sunting"
+
+#: classes/class-view.php:158 controllers/controller-admin.php:123
+#: views/view-editor_button_thickbox.php:70
+#: views/view-editor_button_thickbox.php:115
+#: views/view-options_custom_css.php:38 views/view-preview_table.php:54
+msgid "%1$s &lsaquo; %2$s"
+msgstr "%1$s &lsaquo; %2$s"
+
+#: controllers/controller-frontend.php:808
+#: views/class-all-tables-list-table.php:280
+msgid "%s ago"
+msgstr "%s lalu"
+
+#: controllers/controller-admin.php:204 models/model-table.php:446
+#: views/class-all-tables-list-table.php:196
+#: views/class-editor-button-thickbox-list-table.php:146
+#: views/view-export.php:135 views/view-import.php:164 admin/js/build/edit.js:1
+#: admin/js/edit.js:711
+msgid "(no name)"
+msgstr "(tanpa nama)"
+
+#: classes/class-export.php:62
+msgid ", (comma)"
+msgstr ", (koma)"
+
+#: classes/class-export.php:61
+msgid "; (semicolon)"
+msgstr "; (titik-koma)"
+
+#: classes/class-render.php:354
+msgid "<!-- The table with the ID %s is empty! -->"
+msgstr "<!-- Tabel dengan ID %s kosong! -->"
+
+#: classes/class-view.php:106 views/view-about.php:188
+msgid "<a href=\"%1$s\">Support</a> is provided through the <a href=\"%2$s\">WordPress Support Forums</a>."
+msgstr "<a href=\"%1$s\">Dukungan</a> disediakan melalui <a href=\"%2$s\">Forum Dukungan WordPress</a>."
+
+#: controllers/controller-admin.php:593
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: controllers/controller-admin.php:591 controllers/controller-admin.php:592
+#: views/view-add.php:40
+msgid "Add New Table"
+msgstr "Tambahkan Tabel Baru"
+
+#: controllers/controller-admin.php:584 controllers/controller-admin.php:585
+#: controllers/controller-admin.php:586
+msgid "All Tables"
+msgstr "Semua Tabel"
+
+#: views/view-about.php:49
+msgid "Author and License"
+msgstr "Penulis dan Lisensi"
+
+#: classes/class-export.php:56 classes/class-import-legacy.php:68
+msgid "CSV - Character-Separated Values"
+msgstr "CSV - Character-Separated Values"
+
+#: models/model-table.php:448
+msgid "Copy of %s"
+msgstr "Salinan %s"
+
+#: views/view-about.php:51
+msgid "Debug and Version Information"
+msgstr "Debug dan Informasi Versi"
+
+#: controllers/controller-admin.php:512
+msgctxt "Default CSV delimiter in the translated language (\";\", \",\", or \"tab\")"
+msgid ","
+msgstr ","
+
+#: controllers/controller-admin.php:382
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: controllers/controller-admin.php:598
+msgid "Edit Table"
+msgstr "Sunting Tabel"
+
+#: controllers/controller-admin.php:612 controllers/controller-admin.php:613
+msgid "Export a Table"
+msgstr "Ekspor Tabel"
+
+#: controllers/controller-admin.php:381
+msgid "FAQ"
+msgstr "FAQ"
+
+#: classes/class-view.php:118
+msgid "For more information:"
+msgstr "Info lebih lanjut:"
+
+#: controllers/controller-admin.php:1341
+msgid "Go to Dashboard"
+msgstr "Ke Dasbor"
+
+#: classes/class-export.php:57 classes/class-import-legacy.php:70
+msgid "HTML - Hypertext Markup Language"
+msgstr "HTML - Hypertext Markup Language"
+
+#: views/view-about.php:48
+msgid "Help and Support"
+msgstr "Bantuan dan Dukungan"
+
+#: controllers/controller-admin.php:605 controllers/controller-admin.php:606
+msgid "Import a Table"
+msgstr "Impor Tabel"
+
+#: classes/class-import.php:181
+msgid "Imported from Manual Input"
+msgstr "Diimpor dari Input Manual"
+
+#: classes/class-export.php:58 classes/class-import-legacy.php:72
+msgid "JSON - JavaScript Object Notation"
+msgstr "JSON - JavaScript Object Notation"
+
+#: views/view-about.php:47
+msgid "More Information and Documentation"
+msgstr "Info Lebih Lanjut dan Dokumentasi"
+
+#: classes/class-view.php:102 views/view-about.php:137
+msgid "More information about TablePress can be found on the <a href=\"%1$s\">plugin website</a> or on its page in the <a href=\"%2$s\">WordPress Plugin Directory</a>."
+msgstr "Informasi lebih lanjut tentang TablePress dapat ditemukan di <a href=\"%1$s\">situs web plugin</a> atau di halaman <a href=\"%2$s\">Direktori Plugin WordPress</a>."
+
+#: controllers/controller-admin.php:619 controllers/controller-admin.php:620
+#: controllers/controller-admin.php:621
+msgid "Plugin Options"
+msgstr "Pilihan Plugin"
+
+#: views/view-about.php:45
+msgid "Plugin Purpose"
+msgstr "Tujuan Plugin"
+
+#: controllers/controller-admin.php:365
+msgid "Plugin page"
+msgstr "Laman Plugin"
+
+#: controllers/controller-admin.php:1223 controllers/controller-admin.php:1233
+#: views/class-all-tables-list-table.php:220 views/view-edit.php:383
+#: views/view-preview_table.php:54
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: classes/class-view.php:474 views/view-edit.php:386
+#: views/view-options.php:177
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: controllers/controller-admin.php:383
+msgid "Support"
+msgstr "Dukungan"
+
+#. Plugin Name of the plugin
+#: classes/class-view.php:408
+msgid "TablePress"
+msgstr "TablePress"
+
+#: classes/class-view.php:113
+msgid "TablePress Help"
+msgstr "Bantuan TablePress"
+
+#: controllers/controller-admin.php:339
+msgid "TablePress Table"
+msgstr "Tabel TablePress"
+
+#: views/view-about.php:79
+msgid "TablePress allows you to create and manage tables in the admin area of WordPress."
+msgstr "TablePress memungkinkan Anda membuat dan mengelola tabel di area admin WordPress."
+
+#: controllers/controller-admin.php:1321
+msgid "TablePress was uninstalled successfully."
+msgstr "TablePress telah berhasil dicopot."
+
+#: classes/class-import-legacy.php:173 classes/class-import-legacy.php:270
+#: libraries/html-parser.class.php:68
+msgid "The imported file contains errors:"
+msgstr "File yang diimpor berisi kesalahan:"
+
+#: controllers/controller-admin.php:1223
+#: controllers/controller-admin_ajax.php:285
+msgid "The preview could not be loaded."
+msgstr "Pratinjau tidak dapat dimuat."
+
+#: controllers/controller-admin.php:1233
+msgid "The table could not be loaded."
+msgstr "Tabel tidak bisa dimuat."
+
+#: controllers/controller-admin_ajax.php:272 views/view-preview_table.php:60
+msgid "This is a preview of your table."
+msgstr "Berikut adalah pratinjau tabel Anda."
+
+#: views/view-about.php:46
+msgid "Usage"
+msgstr "Penggunaan"
+
+#: classes/class-import-legacy.php:73
+msgid "XLS - Microsoft Excel 97-2003 (experimental)"
+msgstr "XLS - Microsoft Excel 97-2003 (percobaan)"
+
+#: controllers/controller-admin.php:1329
+msgid "Your TablePress &#8220;Custom CSS&#8221; files have been deleted automatically."
+msgstr "Berkas &#8220;CSS Tersesuai&#8221; TablePress Anda telah dihapus secara otomatis."
+
+#: classes/class-export.php:63
+msgid "\\t (tabulator)"
+msgstr "\\t (tabulator)"
+
+#: controllers/controller-admin.php:614
+msgctxt "navigation bar"
+msgid "Export"
+msgstr "Ekspor"
+
+#: controllers/controller-admin.php:607
+msgctxt "navigation bar"
+msgid "Import"
+msgstr "Impor"
+
+#: controllers/controller-admin.php:627
+msgid "About TablePress"
+msgstr "Tentang TablePress"
+
+#: controllers/controller-admin.php:626 controllers/controller-admin.php:628
+msgid "About"
+msgstr "Tentang"
+
+#: controllers/controller-admin.php:1324
+msgid "You may now ask the network admin to delete the plugin&#8217;s folder <code>tablepress</code> from the server, if no other site in the network uses it."
+msgstr "Sekarang Anda bisa meminta admin jaringan untuk menghapus folder plugin <code>tablepress</code> dari server, jika tidak ada situs lain dalam jaringan yang menggunakannya."
+
+#: controllers/controller-admin.php:1334
+msgid "You may now also delete your TablePress &#8220;Custom CSS&#8221; files in the <code>wp-content</code> folder."
+msgstr "Sekarang Anda juga bisa menghapus berkas CSS Tersuai TablePress di folder <code>wp-content</code>."
+
+#: controllers/controller-admin.php:1326
+msgid "You may now manually delete the plugin&#8217;s folder <code>tablepress</code> from the <code>plugins</code> directory on your server or use the &#8220;Delete&#8221; link for TablePress on the WordPress &#8220;Plugins&#8221; page."
+msgstr "Anda sekarang dapat menghapus secara manual folder <code>tablepress</code> dari direktori <code>plugins</code> di server Anda atau gunakan tautan &#8220;Hapus&#8221; untuk plugin TablePress di laman &#8220;Plugin&#8221; WordPress."
+
+#: classes/class-view.php:107 views/view-about.php:189
+msgid "Before asking for support, please carefully read the <a href=\"%s\">Frequently Asked Questions</a>, where you will find answers to the most common questions, and search through the forums."
+msgstr "Sebelum meminta dukungan, mohon baca dengan seksama <a href=\"%s\">Pertanyaan yang Sering Diajukan</a>, dimana Anda akan menemukan jawaban atas permasalahan yang umum dijumpai, dan telusuri juga melalui forum."
+
+#: controllers/controller-admin.php:381
+msgid "Frequently Asked Questions"
+msgstr "Pertanyaan yang Sering Diajukan"
+
+#: controllers/controller-admin.php:1343 views/view-options.php:192
+#: views/view-options.php:201
+msgid "Uninstall TablePress"
+msgstr "Copot TabelPress"
+
+#: controllers/controller-admin.php:1339
+msgid "Go to &#8220;Plugins&#8221; page"
+msgstr "Ke laman &#8220;Plugin&#8221;"
+
+#: controllers/controller-admin.php:1332
+msgid "Please also ask him to delete your TablePress &#8220;Custom CSS&#8221; files from the server."
+msgstr "Tolong minta juga untuk menghapus berkas &#8220;CSS Tersuai&#8221; TablePress dari server."
+
+#: controllers/controller-admin.php:1322
+msgid "All tables, data, and options were deleted."
+msgstr "Semua tabel, data, dan opsi telah dihapus."
+
+#: views/view-about.php:50
+msgid "Credits and Thanks"
+msgstr "Pujian dan Ucapan Terima Kasih"
+
+#: controllers/controller-admin_ajax.php:273 views/view-preview_table.php:60
+msgid "Because of CSS styling in your theme, the table might look different on your page!"
+msgstr "Tampilan tabel mungkin terlihat berbeda pada laman Anda dikarenakan berkas CSS dalam tema yang Anda gunakan!"
+
+#: classes/class-import-legacy.php:74
+msgid "XLSX - Microsoft Excel 2007-2019 (experimental)"
+msgstr "XLSX - Microsoft Excel 2007-2019 (percobaan)"
+
+#: classes/class-view.php:103 views/view-about.php:138
+msgid "For technical information, please see the <a href=\"%s\">Documentation</a>."
+msgstr "Untuk informasi teknis, silakan lihat <a href=\"%s\">Dokumentasi</a>."
